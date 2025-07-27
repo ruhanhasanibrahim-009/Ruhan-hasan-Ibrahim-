@@ -15,7 +15,7 @@
   <meta property="og:description" content="Discover the works and skills of Ruhan Hasan Ibrahim." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://yourdomain.com" />
-  <meta property="og:image" content="https://yourdomain.com/og-image.jpg" />
+  <meta property="og:image" content="https://images.app.goo.gl/VzRLxC7ZG6wHkbEy9" />
   
   <style>
     body {
